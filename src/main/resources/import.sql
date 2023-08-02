@@ -1,0 +1,6 @@
+INSERT INTO clientes(nombre, apellido, email, edad) VALUES ('Sergio', 'Flores', 'sergioflores.vt@gmail.com', 32)
+INSERT INTO clientes(nombre, apellido, email, edad) VALUES ('Duki', 'gonzalez', 'duki@gmail.com', 25)
+INSERT INTO clientes(nombre, apellido, email, edad) VALUES ('Emilia', 'Mernes', 'emilia@gmail.com', 28)
+INSERT INTO clientes(nombre, apellido, email, edad) VALUES ('Cazzu', 'Cazzuchelli', 'cazzu@gmail.com', 27)
+INSERT INTO clientes(nombre, apellido, email, edad) VALUES ('Lali', 'Esposito', 'lali@gmail.com', 30)
+INSERT INTO clientes(nombre, apellido, email, edad) VALUES ('Bizarrap', 'Conde', 'bizarrap@gmail.com', 26)
